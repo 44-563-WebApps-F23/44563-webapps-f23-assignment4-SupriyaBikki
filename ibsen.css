@@ -1,13 +1,13 @@
 .speech{
     color: black;
     font-size: 12px;
-    font-family: sans-serif;
+    font-family:serif;
 }
 .direction{
     color: black;
     font-size: 14px;
     font-family: 'Times New Roman';
-    background-color:blue;
+    background-color:beige;
     
 }
 .direction:hover{
@@ -20,11 +20,8 @@
     text-decoration: dashed;
 
 }
-.nora{
+.krogstad{
     color:cornsilk;
     font-style: italic;
 }
 
-.playTable , .tblrow , td{
-    border: 1px ridge red;
-}

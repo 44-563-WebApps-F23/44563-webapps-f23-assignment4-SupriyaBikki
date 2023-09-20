@@ -1,0 +1,30 @@
+.speech{
+    color: black;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.direction{
+    color: black;
+    font-size: 14px;
+    font-family: 'Times New Roman';
+    background-color:blue;
+    
+}
+.direction:hover{
+    background-color:beige;
+    color: coral;
+}
+.linde{
+    color:burlywood;
+    font-style: italic;
+    text-decoration: dashed;
+
+}
+.nora{
+    color:cornsilk;
+    font-style: italic;
+}
+
+.playTable , .tblrow , td{
+    border: 1px ridge red;
+}

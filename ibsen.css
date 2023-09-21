@@ -14,15 +14,23 @@
     background-color:beige;
     color: coral;
 }
-.linde{
+.linde:hover{
     color:brown;
+    border: 2px solid #FF5733;
+    cursor: pointer;
     font-style: italic;
     text-decoration: dashed;
+    text-shadow: 2px 2px 8px #3c0da1;
+
 
 }
-.krogstad{
+.krogstad:hover{
     color:blue;
+    border:2px solid rgb(128, 204, 240);
+    cursor: pointer;
     font-style: italic;
+    text-shadow: 2px 2px 8px #FF0000;
+
 }
 table{
     border-collapse:collapse;
@@ -44,5 +52,7 @@ tr:nth-child(even){
     background-color:burlywood;
 
 }
+
+
 
 
